@@ -1,82 +1,64 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
+            "imgPath": "Masjid Nabawi.jpg",
+            "imgLocation": "Medina, Saudi Arabia",
+            "description": "Masjid Nabawi",
             "date": "01/01/2016"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
+            "imgPath": "Makkah.jpg",
+            "imgLocation": "Makkah, Saudi Arabia",
+            "description": "Masjid al-Haram",
             "date": "01/02/2016"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
+            "imgPath": "Al Aqsa.jpg",
+            "imgLocation": "Jerusalem, Palestine",
+            "description": "Al Aqsa Mosque",
             "date": "01/03/2016"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
+            "imgPath": "Ibrahimi Mosque.jpg",
+            "imgLocation": "Hebron, Palestine",
+            "description": "Ibrahimi Mosque",
             "date": "01/04/2016"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
+            "imgPath": "Faisal Mosque.jpg",
+            "imgLocation": "Islamabad, Pakistan",
+            "description": "Faisal Mosque",
             "date": "01/05/2016"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
+            "imgPath": "blue mosque.jpg",
+            "imgLocation": "Istanbul, Turkey",
+            "description": "Blue Mosque",
             "date": "01/06/2016"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
+            "imgPath": "Dome of the rock.jpg",
+            "imgLocation": "Jerusalem, Palestine",
+            "description": "Dome of the Rock",
             "date": "01/07/2016"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
+            "imgPath": "Jama Masjid.jpg",
+            "imgLocation": "Delhi, India",
+            "description": "Jama Masjid",
             "date": "01/08/2016"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
+            "imgPath": "Ummayad Masjid.jpg",
+            "imgLocation": "Damascus, Syria",
+            "description": "Umayyad Mosque",
             "date": "01/09/2016"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
+            "imgPath": "Salahuddin Mosque.jpg",
+            "imgLocation": "Shah Alam, Malaysia",
+            "description": "Sultan Salahuddin Abdul Aziz Mosque",
             "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
-        }
+        }  
   ]
 }
